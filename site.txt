@@ -5,3 +5,5 @@ logomarca do site
 menu Principal
 
 Area de noticias
+
+FOOTER 
